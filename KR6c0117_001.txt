@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:45:47.312722
+#+DATE: 2015-08-30 19:45:48.714461
 #+TITLE: 實相般若波羅蜜經
 #+PROPERTY: CBETA_ID T08n0240
 #+PROPERTY: ID KR6c0117
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 240
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0117_T_001-0776a> 
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.240[Nos.220(10),241-244]¶
-
- 《實相般若波羅蜜經》¶
+No. 240 [Nos. 220(10), 241-244]¶
+《實相般若波羅蜜經》¶
 ¶
 唐天竺三藏菩提流志譯¶
 
@@ -175,7 +174,7 @@ No.240[Nos.220(10),241-244]¶
 
 爾時如來復說呪曰：¶
 
-「㘕(長呼)」¶
+「[口*藍](長呼)」¶
 
 爾時世尊復，以一切如來大善巧方便相，為¶
 諸菩薩說最第一廣供養諸佛實相般若波¶
