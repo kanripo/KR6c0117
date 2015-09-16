@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 實相般若波羅蜜經
+#+DATE: 2015-08-30 19:45:47.516116
+#+PROPERTY: JUAN 0
