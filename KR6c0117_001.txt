@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:45:47.312722
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:26
 #+TITLE: 實相般若波羅蜜經
 #+PROPERTY: CBETA_ID T08n0240
 #+PROPERTY: ID KR6c0117
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 240
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0117_T_001-0776a> 
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.240[Nos.220(10),241-244]¶
-
- 《實相般若波羅蜜經》¶
+No. 240 [Nos. 220(10), 241-244]¶
+《實相般若波羅蜜經》¶
 ¶
 唐天竺三藏菩提流志譯¶
 
@@ -283,9 +282,9 @@ No.240[Nos.220(10),241-244]¶
 　大欲清淨人，
 　大施安樂人，¶
 　於三界自在，
-　作堅固利益。」
+　作堅固利益。」」
 #+END_VERSE
-」¶
+¶
 
 爾時世尊說此法門已，復告金剛手菩薩言：¶
 「金剛手！若有人得聞此大安樂金剛法性實相¶
